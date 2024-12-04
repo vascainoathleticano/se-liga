@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uso da Tecnologia na Educação</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Uso da Tecnologia na Educação</h1>
+        <nav>
+            <ul>
+                <li><a href="#positivos">Pontos Positivos</a></li>
+                <li><a href="#negativos">Pontos Negativos</a></li>
+                <li><a href="#referencias">Referências</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="introducao">
+            <h2>Introdução</h2>
+            <p>
+              A tecnologia é uma força motriz no mundo moderno, impactando todos os aspectos da sociedade, especialmente a educação. Desde a inclusão de computadores nas salas de aula até o advento de plataformas de aprendizagem online, seu uso trouxe uma revolução no modo como o conhecimento é adquirido, compartilhado e aplicado. Este texto explora os pontos positivos e negativos da tecnologia na educação, enfatizando suas contribuições e desafios.
+            </p>
+            <img src="https://idocode.com.br/wp-content/uploads/2021/05/Tecnologia-da-Informacao-1.jpg.webp" alt="Educação e Tecnologia">
+        </section>
+
+        <section id="positivos">
+            <h2>Pontos Positivos</h2>
+            <ul>
+                <li>Acesso Ampliado ao Conhecimento
+                  A internet permite que alunos e professores acessem uma vasta gama de recursos educacionais, desde artigos acadêmicos até videoaulas interativas. Isso democratiza o aprendizado e reduz as barreiras geográficas..</li>
+                <li>Aprendizagem Personalizada
+                  Ferramentas digitais, como plataformas de ensino adaptativo, ajustam o conteúdo com base nas necessidades individuais do aluno, promovendo uma experiência de aprendizado mais eficaz..</li>
+                <li>Colaboração e Conectividade
+                  A tecnologia facilita a colaboração global entre estudantes, professores e pesquisadores. Ferramentas como Google Docs, fóruns e plataformas de videoconferência conectam pessoas de todo o mundo..</li>
+                <li>PRiscos de Segurança
+                  O uso de tecnologia expõe estudantes e professores a riscos, como cyberbullying e vazamento de dados..</li>
+            </ul>
+            <img src="https://solides.com.br/blog/wp-content/uploads/elementor/thumbs/Tecnologia-e-Pessoas-1-qx91vt0ywdc14uqta7d9tpzpjbumj8jz5roic4f9eq.jpg" alt="Vantagens do uso de tecnologia">
+        </section>
+
+        <section id="negativos">
+            <h2>Pontos Negativos</h2>
+            <ul>
+                <li>Dependência Excessiva
+                  A tecnologia pode criar uma dependência prejudicial, onde os alunos se tornam menos capazes de resolver problemas sem ajuda digital..</li>
+                <li>Desigualdade de Acesso
+                  Nem todos têm acesso igual a dispositivos e à internet, criando uma lacuna digital que pode exacerbar desigualdades educacionais..</li>
+                <li>Distrações e Procrastinação
+                  Redes sociais e jogos online podem desviar a atenção dos alunos, prejudicando a produtividade e o aprendizado..</li>
+                <li>Redução da Interação Humana
+                  O uso excessivo de plataformas online pode limitar interações sociais face a face, fundamentais para o desenvolvimento emocional e social..</li>
+            </ul>
+            <img src="https://www.revistaebs.com.br/wp-content/uploads/2018/02/tecnologia-620x438.jpg.webp" alt="Desvantagens do uso de tecnologia">
+        </section>
+
+        <section id="referencias">
+            <h2>Referências</h2>
+            <ul>
+                <li><a href="https://www.unesco.org" target="_blank">UNESCO - Educação e Tecnologia</a></li>
+                <li><a href="https://www.educacao.gov.br" target="_blank">Ministério da Educação</a></li>
+                <li><a href="https://www.bbc.com" target="_blank">BBC - Tecnologia na Educação</a></li>
+            </ul>
+        </section>
+    </main>
+
